@@ -1,0 +1,8 @@
+{
+  "id": "rwp-plugin-check",
+  "name": "RWP Plugin Check",
+  "version": "1.0.0",
+  "author": "React-WP",
+  "description": "Test a plugin ZIP before you install it. Reads the file in your browser and reports invented function names, leftover WordPress code, unsafe constructs, missing row level security and broken imports in plain language. Nothing is uploaded or installed.",
+  "entry": "./index.tsx"
+}
